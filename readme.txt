@@ -12,7 +12,7 @@ Add the Booking Button to your website will increase engagement and create a las
 <strong>Shortcode Syntax</strong>
 <code>[BKFP url='booking url']</code>
 
-
+ 
 == Installation ==
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
