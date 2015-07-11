@@ -2,7 +2,7 @@
 Contributors: Tiago G
 Version: 1.0.0
 Create a Booking Button either by using a shortcode or a widget.
-Photographer Appointment Booking System
+Photographer Appointment Booking System 
 
 == Description ==
 Add the Booking Button to your website will increase engagement and create a lasting connection with your audience, also bookmeforphotogaphers.com offers 1 month free trial account.
